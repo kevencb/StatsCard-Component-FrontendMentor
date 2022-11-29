@@ -1,0 +1,19 @@
+$veryDarkBlue: hsl(233, 47%, 7%);
+$darkDesaturatedBlue: hsl(244, 38%, 16%);
+$softViolet: hsl(277, 64%, 61%);
+$white: hsl(0, 0%, 100%);
+$slightlyTransparentWhiteParagraph: hsla(0, 0%, 100%, 0.75);
+$slightlyTransparentWhiteHeadings: hsla(0, 0%, 100%, 0.6);
+
+$principalFont: 'Inter', sans-serif;
+$secondFont: 'Lexend Deca', sans-serif;
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
